@@ -8,7 +8,7 @@
 
 /* used to help determine layout */
 .border {
-    border: 1px solid black;
+    border: 1px solid blue;
 }
 
 .spacebetween{
@@ -51,7 +51,7 @@ header {
     padding-top: 5px;
     padding-bottom: 10px;
     background-color: rgb(75,105,177);
-    background-image: linear-gradient(90deg, rgba(75,105,177,1) 13%, rgba(35,77,167,1) 42%, rgba(1,1,105,1) 80%);
+    background-image: linear-gradient(90deg, rgba(75,105,177,1) 13%, rgba(35,77,167,1) 42%, pink);
 }
 
 
@@ -82,7 +82,7 @@ h2 {
     font-size: 2rem;
     width: 100%;
     border-radius: .4rem;
-    border: .1rem solid black;
+    border: .1rem solid lightslategray;
     height: 4.5rem;
     padding-bottom: .5rem;
     padding-top: 0px;
@@ -92,7 +92,7 @@ h2 {
 /* style the search button */
 #search-btn {
     margin-bottom: 2rem;
-    background-color: #6699ff;
+    background-color: lightslategray;
     color: white;
 }
 
