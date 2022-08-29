@@ -31,3 +31,8 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
+
+
+
+<img width="1438" alt="Screen Shot 2022-08-29 at 7 20 19 PM" src="https://user-images.githubusercontent.com/106413641/187315349-ea81fa35-e1fc-4bd7-aa41-2465acd0e408.png">
+
